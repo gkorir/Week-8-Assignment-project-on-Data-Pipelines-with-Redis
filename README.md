@@ -1,4 +1,7 @@
 # Week-8-Assignment-project-on-Data-Pipelines-with-Redis
+
+Google colab link: https://colab.research.google.com/drive/1ui7dPWClrO-Scq5RfvLjovpcEfXLzCu8#scrollTo=-fpGvix4Ps48&uniqifier=1
+
 This repo contains Week 8 Assignment project on Data Pipelines with Redis .
 
 # Telecommunications Data Pipeline
